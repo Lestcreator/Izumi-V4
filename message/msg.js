@@ -99,12 +99,7 @@ const setahun = "20.000"
 const permanen = "30.000"
 
 //Setting Diamond FF | Ubah Harga Diamond Sesuai Kemauan mu//
-const diamondsatu = "50 ðŸ’Ž = 8.000"
-const diamonddua = "70 ðŸ’Ž = 10.000"
-const diamondtiga = "100 ðŸ’Ž = 15.000"
-const diamondempat = "140 ðŸ’Ž = 20.000"
-const diamondlima = "355 ðŸ’Ž = 50.000"
-const diamondenam = "720 ðŸ’Ž = 100.000"
+gak jual diamond kak cmn jual hati kalau gak percaya tanya aja sama wa.me/+62838-3096-0481
 
 //Setting Rekber // Lu Ubah Aja Soalnya Gw Bukan Anak JB:v //
 const rekbera = "0-49K : 5K"
