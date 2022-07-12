@@ -74,12 +74,12 @@ const chrisapi = "IzumiBot"
 const nobot = "6283830960481" // Ganti No Bot Kalian
 const namabot = "lestky" // Ganti Nama Bot Kalian
 const nameown = "lestky" // Ganti Nama Kalian
-const numown = "6283830960481" // Ganti Nomor Kalian
+const numown = "62881036775254" // Ganti Nomor Kalian
 const nameowner = "lestky" // Ganti Nama Kalian
 const footer = "lestky" // Ganti Nama Bot Kalian
 const capt = "*lestky*" // Ganti Nama Bot Kalian
 const grup = "https://chat.whatsapp.com/Lennop7dCxgJRhSjxuYT0Z" // Ganti Link Group Kalian
-const nomorown = "https://wa.me/6283830960481" // Ganti Nomor Kalian
+const nomorown = "https://wa.me/62881036775254" // Ganti Nomor Kalian
 const note = "*_Bot Ini Masih Dalam Pengembangan Jika Ada Fitur Yang Eror Silakan Hubungi Owner!!!_*" // Kalau Mau Ganti Aja
 const namagrup = "Group lest" // Ubah Nama Group Mu
 
